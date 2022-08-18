@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jason Christopher
-- 🌱 I’m currently learning Computer Science in NUS
+# 👋 Hi, I’m Jason Christopher
+🌱 I’m currently in my second year of learning Computer Science in NUS
 
 <!---
 jasonchristopher21/jasonchristopher21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
