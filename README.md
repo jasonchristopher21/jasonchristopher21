@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jason Christopher
 
 🌱 I’m currently in my second year of learning Computer Science in NUS <br>
-🚀 I'm interested in Website and Mobile Application Development
+🚀 I'm passionate on Website and Mobile Application Development
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jasonchristopher21/">
