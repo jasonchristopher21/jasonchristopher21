@@ -35,9 +35,9 @@
 
 ## 🎯 Stats
 
-[![jasonchristopher21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonchristopher21&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![jasonchristopher21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonchristopher21&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonchristopher21&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonchristopher21&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
