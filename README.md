@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Jason Christopher
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20Mobile%20App%20Developer;Experience%20in%20UI/UX%20Design;Aspiring%20Computer%20Science%20Student&font=Fira%20Code&center=true&width=440&height=45&color=fbb124&vCenter=true&size=22&pause=1000"></a>
+</p>
+
 🌱 I’m currently in my second year of learning Computer Science in NUS <br>
 🚀 I'm passionate on Website and Mobile Application Development
 
