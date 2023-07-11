@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:jason.christopher@u.nus.edu">
-    <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Email-ff8c00?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  </a>
+  <a href="https://jasonchristopher.space">
+    <img src="https://img.shields.io/badge/Portfolio-3c873a?style=for-the-badge&logo=webflow&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
 
