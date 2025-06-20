@@ -63,10 +63,10 @@
 
 ## 🎯 Stats
 
-[![jasonchristopher21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonchristopher21&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonchristopher21&layout=compact&theme=outrun&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="440px" src="https://github-readme-stats.vercel.app/api?username=jasonchristopher21&show_icons=true&theme=outrun" alt="Stats"/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonchristopher21&layout=compact&theme=outrun&hide=jupyter%20notebook" alt="Languages" />
 
 <!---
 jasonchristopher21/jasonchristopher21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
